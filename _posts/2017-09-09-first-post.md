@@ -1,5 +1,6 @@
 ---
-
+layout: post
+title:  "New blog."
 ---
 
 # I'm still setting up this blog... But, yay, first post!
