@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Alex Milligan's Blog"
 ---
 
 # Hello, world.
