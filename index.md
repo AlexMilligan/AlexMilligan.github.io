@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Alex Milligan"
+name: "Alex Milligan"
 description: "This is my blog"
 ---
 
