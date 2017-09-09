@@ -6,6 +6,8 @@ title: Alex Milligan
 # Hello, world.
 This is my blog.
 
+***
+Posts:
 <ul>
     {% for post in site.posts %}
 <li>
