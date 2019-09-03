@@ -15,5 +15,7 @@ Posts:
     {% endfor %}
 </ul>
 
+<div>
 {% include testing.html %}
+</div>
 
