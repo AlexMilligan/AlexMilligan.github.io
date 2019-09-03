@@ -14,3 +14,6 @@ Posts:
 </li>
     {% endfor %}
 </ul>
+
+{% include testing.html %}
+
