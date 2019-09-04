@@ -15,9 +15,13 @@ Posts:
     {% endfor %}
 </ul>
 
+---
 
+# first include test
 {% include testing.html %}
 
-
+# video 1
 {% include yt.html id="dQw4w9WgXcQ" %}
 
+# video 2
+{% include yt2.html id="dQw4w9WgXcQ" %}
